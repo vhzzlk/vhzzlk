@@ -98,6 +98,14 @@ Me chamo Victor Hugo Araujo, tenho 16 anos e sou natural de São Paulo. Estou cu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Apache" 
+    title="Apache"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
+/>
 
 <br/>
 <br/>
