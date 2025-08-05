@@ -1,6 +1,13 @@
-# 👩🏻‍💻  Victor Hugo
+<h1 align="center">Victor Hugo</h1>
 
-**`Desenvolvedor FullStack`**
+<p align="center">
+  Desenvolvedor Full Stack 
+</p>
+
+---
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 
 Me chamo Victor Hugo Araujo, tenho 16 anos e sou natural de São Paulo. Estou cursando atualmente o 2° ano do ensino médio, também cursando o técnico em Desenvolvimento de Sistemas Full Stack no Senai Suiço Brasileiro . Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub [vhzzlk](https://github.com/vhzzlk), aonde mostro tudo que estou aprendendo no dia a dia , também tenho instragram [vhzzlk](https://www.instagram.com/vhzzlk).
 
