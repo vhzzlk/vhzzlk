@@ -5,29 +5,11 @@
 </p>
 
 ---
+Me chamo Victor Hugo Araujo, tenho 16 anos e sou natural de São Paulo. Estou cursando atualmente o 2° ano do ensino médio, também cursando o técnico em Desenvolvimento de Sistemas Full Stack no Senai Suiço Brasileiro . Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub [vhzzlk](https://github.com/vhzzlk), aonde mostro tudo que estou aprendendo no dia a dia , também tenho instragram [vhzzlk](https://www.instagram.com/vhzzlk).
+---
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-
-Me chamo Victor Hugo Araujo, tenho 16 anos e sou natural de São Paulo. Estou cursando atualmente o 2° ano do ensino médio, também cursando o técnico em Desenvolvimento de Sistemas Full Stack no Senai Suiço Brasileiro . Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub [vhzzlk](https://github.com/vhzzlk), aonde mostro tudo que estou aprendendo no dia a dia , também tenho instragram [vhzzlk](https://www.instagram.com/vhzzlk).
-
-<p align="left">
-    </a> 
-    <a href="https://github.com/vhzzlk?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/vhzzlk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/vhzzlk?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/vhzzlk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
