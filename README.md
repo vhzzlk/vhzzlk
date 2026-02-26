@@ -44,5 +44,5 @@ Me chamo Victor Hugo Araujo, tenho 17 anos e sou natural de São Paulo. Atualmen
 ---
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contributions"/>
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de contribuições 3D"/>
 </p>
