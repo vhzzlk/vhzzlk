@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src="assets/images/a.mov" width="480" autoplay loop muted playsinline></video>
+<video src="" width="600" autoplay loop muted playsinline></video>
 
 <br><br>
 
