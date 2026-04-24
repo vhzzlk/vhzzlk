@@ -1,15 +1,14 @@
 <div align="center">
 
-  
-  <img src="https://www10.img2go.com/v2/dl/web7/download-file/9314cde3-a97b-4a4f-9db8-f2e07d91cad8/eu.gif" width="480" alt="banner" />
+  <img src="assets/images/output.gif" width="480" alt="banner" />
 
-  <br><br>
+<br><br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Victor+Hugo!;Back-End+Developer;Java+%7C+Spring+Boot+%7C+AWS;Always+learning+something+new." alt="Typing SVG" />
 
   <br>
 
-  <sub>17 y/o &nbsp;·&nbsp; São Paulo &nbsp;·&nbsp; SENAI Suiço-Brasileiro &nbsp;·&nbsp; Back-End Dev in training</sub>
+<sub>17 y/o &nbsp;·&nbsp; São Paulo &nbsp;·&nbsp; SENAI Suiço-Brasileiro &nbsp;·&nbsp; Back-End Dev in training</sub>
 
 </div>
 
