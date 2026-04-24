@@ -1,48 +1,42 @@
-<h1 align="center">Victor Hugo</h1>
-
-<p align="center">
-  Desenvolvedor Back-End
-</p>
-
----
-
-<p align="center">
-Me chamo Victor Hugo Araujo, tenho 17 anos e sou natural de São Paulo. Atualmente, estou cursando o 3° ano do Ensino Médio e também o curso técnico em Desenvolvimento de Sistemas Full Stack no SENAI Suiço-Brasileiro. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub onde mostro tudo que estou aprendendo no dia a dia.
-</p>
-
----
-
-### 
-
 <div align="center">
+
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-  <img width="12" />
-  
+  <img src="https://www10.img2go.com/v2/dl/web7/download-file/9314cde3-a97b-4a4f-9db8-f2e07d91cad8/eu.gif" width="480" alt="banner" />
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Victor+Hugo!;Back-End+Developer;Java+%7C+Spring+Boot+%7C+AWS;Always+learning+something+new." alt="Typing SVG" />
+
+  <br>
+
+  <sub>17 y/o &nbsp;·&nbsp; São Paulo &nbsp;·&nbsp; SENAI Suiço-Brasileiro &nbsp;·&nbsp; Back-End Dev in training</sub>
+
 </div>
 
-###
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,aws,mongodb,mysql,git,vscode,idea&theme=dark" />
+</div>
+
+<br>
 
 ---
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de contribuições 3D"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vhzzlk&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=9" height="150" />
+</div>
+
+---
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vhzzlk&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/vhzzlk/vhzzlk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vhzzlk/vhzzlk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vhzzlk/vhzzlk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
