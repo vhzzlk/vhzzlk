@@ -10,8 +10,6 @@
 
 <br>
 
-## 🚀 Sobre Mim
-
 Olá! Sou o **Victor Hugo**, um desenvolvedor focado em criar soluções robustas e escaláveis no **Back-End**. Atualmente, curso Desenvolvimento Full Stack no SENAI Suíço-Brasileiro, mas minha verdadeira paixão e foco estão na construção de APIs eficientes e arquiteturas modernas.
 
 - 🔭 Atualmente trabalhando em projetos com **Java** e **Spring Boot**.
@@ -21,22 +19,9 @@ Olá! Sou o **Victor Hugo**, um desenvolvedor focado em criar soluções robusta
 
 <br>
 
-## 🛠️ Tecnologias e Ferramentas
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,aws,mongodb,mysql,git,docker,py,flask,vscode,idea&theme=dark" />
 </div>
-
-<br>
-
-## 🌟 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| [**Spring E-Commerce API**](https://github.com/vhzzlk/spring-ecommerce-api) | API REST completa para e-commerce com JWT, gestão de produtos e pedidos. | Java, Spring Boot, MySQL, JWT |
-| [**Wordbomb Helper**](https://github.com/vhzzlk/wordbombHelper) | Automação inteligente para o jogo Wordbomb usando OCR e algoritmos de busca. | Python, Tesseract OCR, Flask |
-| [**Help Pet Gateway**](https://github.com/vhzzlk/juncao) | Gateway de API para arquitetura de microserviços do projeto Help Pet. | Java, Spring Cloud Gateway, Security |
-| [**Rick and Morty API**](https://github.com/vhzzlk/rickAndMorty-API) | Aplicativo mobile para exploração do universo Rick and Morty. | React Native, Axios, Expo |
 
 <br>
 
